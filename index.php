@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>PHPdocs</title>
+    <title>THE LAB2</title>
 </head>
     <style>
         body {
